@@ -1,4 +1,5 @@
-﻿
+﻿using UnityEngine;
+using KiiCorp.Cloud.Unity;
 
 public class MyKiiInitializeBehaviour : KiiInitializeBehaviour
 {
