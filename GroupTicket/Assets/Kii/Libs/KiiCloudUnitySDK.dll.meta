@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 36175138b51dd4d0483b1d1c2d29158f
+timeCreated: 1425790327
+licenseType: Pro
+PluginImporter:
+  serializedVersion: 1
+  iconMap: {}
+  executionOrder:
+    KiiCorp.Cloud.Unity.KiiInitializeBehaviour: -100
+  isPreloaded: 0
+  platformData:
+    Any:
+      enabled: 1
+      settings: {}
+    Editor:
+      enabled: 0
+      settings:
+        DefaultValueInitialized: true
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
